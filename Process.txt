@@ -1,0 +1,8 @@
+Design process
+1. Research and competitor analysis
+2. Task analysis and affinity mapping
+3. Persona
+4. Value vs. effort prioritization
+5. User flows and wireframes
+6. Visual identity
+7. High-fidelity screens
